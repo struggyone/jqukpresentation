@@ -36,6 +36,7 @@ ol, ul {
 }
 blockquote, q {
 	quotes: none;
+	margin:40px 0;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -47,6 +48,19 @@ table {
 	border-spacing: 0;
 }
 
+
+img.thorax-logo{
+	background:#000;
+	margin:10px 0;
+	padding:10px;
+}
+ul.thorax-features{
+	font-size:24px;
+	line-height:30px;
+}
+ul.thorax-features strong{
+	font-weight:bold;
+}
 
 /* HTML5BP:
    These selection declarations have to be separate.
